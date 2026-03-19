@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+ddgs
+groq
+python-dotenv
+numpy
