@@ -31,8 +31,9 @@ Prerequisites:
 - Python 3.9+ installed
 - An active account and a free API key from Groq
 
-🌐 Live version
+Live version
 The application has also been deployed and made publicly available using the Hugging Face Spaces infrastructure.
+
 👉 Check out the live app here: https://huggingface.co/spaces/dczajka1/Detektor-Dezinformacji-Inz-App
 
 Author
